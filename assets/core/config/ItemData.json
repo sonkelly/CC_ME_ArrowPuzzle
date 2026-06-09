@@ -1,0 +1,86 @@
+[
+  {
+    "ItemId": 10001,
+    "Name": "Gold",
+    "Desc": "金币",
+    "ItemType": 1,
+    "Icon": "tongy_16",
+    "Price": 0,
+    "SellNum": 0,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 10002,
+    "Name": "Heart",
+    "Desc": "体力",
+    "ItemType": 4,
+    "Icon": "tongy_18",
+    "Price": 100,
+    "SellNum": 5,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 10003,
+    "Name": "InfiniteHeart",
+    "Desc": "无限体力",
+    "ItemType": 5,
+    "Icon": "tongy_17",
+    "Price": 0,
+    "SellNum": 0,
+    "ExtraParam": 900,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 20001,
+    "Name": "Hint",
+    "Desc": "提示道具",
+    "ItemType": 2,
+    "Icon": "hint2",
+    "Price": 100,
+    "SellNum": 1,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 20002,
+    "Name": "FillHp",
+    "Desc": "补满生命值道具",
+    "ItemType": 2,
+    "Icon": "PropHp",
+    "Price": 100,
+    "SellNum": 1,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 20003,
+    "Name": "Line",
+    "Desc": "辅助线",
+    "ItemType": 2,
+    "Icon": "dj2",
+    "Price": 0,
+    "SellNum": 0,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  },
+  {
+    "ItemId": 30001,
+    "Name": "NoAds",
+    "Desc": "去广告",
+    "ItemType": 3,
+    "Icon": "noads",
+    "Price": 0,
+    "SellNum": 0,
+    "ExtraParam": 0,
+    "UnlockLevel": 0,
+    "GuideDesc": ""
+  }
+]

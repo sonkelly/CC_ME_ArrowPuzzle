@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "goodsId": [
+      10003
+    ],
+    "goodsNum": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "goodsId": [
+      10001
+    ],
+    "goodsNum": [
+      100
+    ]
+  },
+  {
+    "id": 3,
+    "goodsId": [
+      20001
+    ],
+    "goodsNum": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "goodsId": [
+      10001
+    ],
+    "goodsNum": [
+      200
+    ]
+  },
+  {
+    "id": 5,
+    "goodsId": [
+      20001
+    ],
+    "goodsNum": [
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "goodsId": [
+      10001
+    ],
+    "goodsNum": [
+      200
+    ]
+  },
+  {
+    "id": 7,
+    "goodsId": [
+      10001,
+      20001
+    ],
+    "goodsNum": [
+      300,
+      3
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+
+nvwang.png
+size: 1037,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gantan
+  rotate: true
+  xy: 765, 294
+  size: 118, 122
+  orig: 118, 122
+  offset: 0, 0
+  index: -1
+han
+  rotate: false
+  xy: 152, 37
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+nvwang1
+  rotate: true
+  xy: 488, 2
+  size: 410, 275
+  orig: 410, 275
+  offset: 0, 0
+  index: -1
+nvwang2
+  rotate: true
+  xy: 77, 19
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+nvwang3
+  rotate: true
+  xy: 2, 18
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+nvwang4
+  rotate: false
+  xy: 2, 95
+  size: 484, 940
+  orig: 484, 940
+  offset: 0, 0
+  index: -1
+nvwang5
+  rotate: true
+  xy: 488, 414
+  size: 621, 446
+  orig: 621, 446
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,492 @@
+[
+  {
+    "id": 101,
+    "name": "Unyielding powerhouse {0}",
+    "groupId": 1,
+    "level": 1,
+    "type": 1,
+    "target": 10,
+    "desc": "Deduct {0} HP",
+    "rewardIds": [
+      10001
+    ],
+    "rewardNums": [
+      300
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Unyielding powerhouse {0}",
+    "groupId": 1,
+    "level": 2,
+    "type": 1,
+    "target": 30,
+    "desc": "Deduct {0} HP",
+    "rewardIds": [
+      10001
+    ],
+    "rewardNums": [
+      300
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Unyielding powerhouse {0}",
+    "groupId": 1,
+    "level": 3,
+    "type": 1,
+    "target": 90,
+    "desc": "Deduct {0} HP",
+    "rewardIds": [
+      10001
+    ],
+    "rewardNums": [
+      600
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Unyielding powerhouse {0}",
+    "groupId": 1,
+    "level": 4,
+    "type": 1,
+    "target": 150,
+    "desc": "Deduct {0} HP",
+    "rewardIds": [
+      10001
+    ],
+    "rewardNums": [
+      600
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Unyielding powerhouse {0}",
+    "groupId": 1,
+    "level": 5,
+    "type": 1,
+    "target": 200,
+    "desc": "Deduct {0} HP",
+    "rewardIds": [
+      10001
+    ],
+    "rewardNums": [
+      600
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Top grinder candidate {0}",
+    "groupId": 2,
+    "level": 1,
+    "type": 2,
+    "target": 10,
+    "desc": "Total Stamina Consumed: {0}",
+    "rewardIds": [
+      10002
+    ],
+    "rewardNums": [
+      2
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Top grinder candidate {0}",
+    "groupId": 2,
+    "level": 2,
+    "type": 2,
+    "target": 30,
+    "desc": "Total Stamina Consumed: {0}",
+    "rewardIds": [
+      10002
+    ],
+    "rewardNums": [
+      5
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Top grinder candidate {0}",
+    "groupId": 2,
+    "level": 3,
+    "type": 2,
+    "target": 60,
+    "desc": "Total Stamina Consumed: {0}",
+    "rewardIds": [
+      10002
+    ],
+    "rewardNums": [
+      8
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Top grinder candidate {0}",
+    "groupId": 2,
+    "level": 4,
+    "type": 2,
+    "target": 120,
+    "desc": "Total Stamina Consumed: {0}",
+    "rewardIds": [
+      10002
+    ],
+    "rewardNums": [
+      12
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Top grinder candidate {0}",
+    "groupId": 2,
+    "level": 5,
+    "type": 2,
+    "target": 210,
+    "desc": "Total Stamina Consumed: {0}",
+    "rewardIds": [
+      10002
+    ],
+    "rewardNums": [
+      15
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Never-Stop Machine {0}",
+    "groupId": 3,
+    "level": 1,
+    "type": 3,
+    "target": 15,
+    "desc": "Complete {0} challenges per day",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Never-Stop Machine {0}",
+    "groupId": 3,
+    "level": 2,
+    "type": 3,
+    "target": 40,
+    "desc": "Complete {0} challenges per day",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Never-Stop Machine {0}",
+    "groupId": 3,
+    "level": 3,
+    "type": 3,
+    "target": 100,
+    "desc": "Complete {0} challenges per day",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Never-Stop Machine {0}",
+    "groupId": 3,
+    "level": 4,
+    "type": 3,
+    "target": 250,
+    "desc": "Complete {0} challenges per day",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Never-Stop Machine {0}",
+    "groupId": 3,
+    "level": 5,
+    "type": 3,
+    "target": 350,
+    "desc": "Complete {0} challenges per day",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Top Rescuer {0}",
+    "groupId": 4,
+    "level": 1,
+    "type": 4,
+    "target": 4,
+    "desc": "Finish {0} rescue challenges daily",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Top Rescuer {0}",
+    "groupId": 4,
+    "level": 2,
+    "type": 4,
+    "target": 10,
+    "desc": "Finish {0} rescue challenges daily",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Top Rescuer {0}",
+    "groupId": 4,
+    "level": 3,
+    "type": 4,
+    "target": 25,
+    "desc": "Finish {0} rescue challenges daily",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Top Rescuer {0}",
+    "groupId": 4,
+    "level": 4,
+    "type": 4,
+    "target": 35,
+    "desc": "Finish {0} rescue challenges daily",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Top Rescuer {0}",
+    "groupId": 4,
+    "level": 5,
+    "type": 4,
+    "target": 45,
+    "desc": "Finish {0} rescue challenges daily",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      4,
+      4
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Old hand clocking in {0}",
+    "groupId": 5,
+    "level": 1,
+    "type": 5,
+    "target": 2,
+    "desc": "Total challenge days: {0}",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Old hand clocking in {0}",
+    "groupId": 5,
+    "level": 2,
+    "type": 5,
+    "target": 3,
+    "desc": "Total challenge days: {0}",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Old hand clocking in {0}",
+    "groupId": 5,
+    "level": 3,
+    "type": 5,
+    "target": 7,
+    "desc": "Total challenge days: {0}",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Old hand clocking in {0}",
+    "groupId": 5,
+    "level": 4,
+    "type": 5,
+    "target": 14,
+    "desc": "Total challenge days: {0}",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      5,
+      5
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Old hand clocking in {0}",
+    "groupId": 5,
+    "level": 5,
+    "type": 5,
+    "target": 30,
+    "desc": "Total challenge days: {0}",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      5,
+      5
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Take down the top pro {0}",
+    "groupId": 6,
+    "level": 1,
+    "type": 6,
+    "target": 4,
+    "desc": "Consecutive wins {0} levels",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Take down the top pro {0}",
+    "groupId": 6,
+    "level": 2,
+    "type": 6,
+    "target": 10,
+    "desc": "Consecutive wins {0} levels",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      2,
+      2
+    ]
+  },
+  {
+    "id": 603,
+    "name": "Take down the top pro {0}",
+    "groupId": 6,
+    "level": 3,
+    "type": 6,
+    "target": 14,
+    "desc": "Consecutive wins {0} levels",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Take down the top pro {0}",
+    "groupId": 6,
+    "level": 4,
+    "type": 6,
+    "target": 16,
+    "desc": "Consecutive wins {0} levels",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Take down the top pro {0}",
+    "groupId": 6,
+    "level": 5,
+    "type": 6,
+    "target": 20,
+    "desc": "Consecutive wins {0} levels",
+    "rewardIds": [
+      20001,
+      20003
+    ],
+    "rewardNums": [
+      3,
+      3
+    ]
+  }
+]

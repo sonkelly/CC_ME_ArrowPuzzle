@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "type": 4,
+    "target": 1,
+    "goodsId": 10001,
+    "goodsNum": 50,
+    "difficulty": 0,
+    "isFix": 0
+  },
+  {
+    "id": 2,
+    "type": 4,
+    "target": 5,
+    "goodsId": 10001,
+    "goodsNum": 100,
+    "difficulty": 0,
+    "isFix": 0
+  },
+  {
+    "id": 3,
+    "type": 4,
+    "target": 9,
+    "goodsId": 10001,
+    "goodsNum": 150,
+    "difficulty": 0,
+    "isFix": 0
+  },
+  {
+    "id": 4,
+    "type": 4,
+    "target": 12,
+    "goodsId": 10001,
+    "goodsNum": 200,
+    "difficulty": 0,
+    "isFix": 0
+  },
+  {
+    "id": 5,
+    "type": 4,
+    "target": 20,
+    "goodsId": 10001,
+    "goodsNum": 300,
+    "difficulty": 0,
+    "isFix": 0
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "ID": 10001,
+    "Name": "金币",
+    "Type": 1,
+    "Desc": "金币",
+    "Icon": "tongy_16",
+    "PriceType": 1,
+    "Price": 1,
+    "DropIds": [
+      10001
+    ],
+    "DropNums": [
+      100
+    ]
+  },
+  {
+    "ID": 10002,
+    "Name": "金币",
+    "Type": 1,
+    "Desc": "金币",
+    "Icon": "tongy_16",
+    "PriceType": 1,
+    "Price": 3,
+    "DropIds": [
+      10001
+    ],
+    "DropNums": [
+      500
+    ]
+  },
+  {
+    "ID": 10005,
+    "Name": "游戏礼包",
+    "Type": 3,
+    "Desc": "Play Gift Pack",
+    "Icon": "",
+    "PriceType": 1,
+    "Price": 5,
+    "DropIds": [
+      10001,
+      20001,
+      10003
+    ],
+    "DropNums": [
+      500,
+      5,
+      1
+    ]
+  }
+]

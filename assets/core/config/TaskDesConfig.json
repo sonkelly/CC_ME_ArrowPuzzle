@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "des": "Daily login"
+  },
+  {
+    "id": 2,
+    "des": "How many levels have you passed"
+  },
+  {
+    "id": 3,
+    "des": "Continuous clearance"
+  },
+  {
+    "id": 4,
+    "des": "Win %s"
+  },
+  {
+    "id": 5,
+    "des": "Accumulated online time"
+  },
+  {
+    "id": 6,
+    "des": "Number of times props are used"
+  },
+  {
+    "id": 7,
+    "des": "How many videos do you watch"
+  },
+  {
+    "id": 8,
+    "des": "Go to the mall to purchase props"
+  },
+  {
+    "id": 9,
+    "des": "Go to the mall to consume coins"
+  }
+]

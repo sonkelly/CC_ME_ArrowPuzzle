@@ -1,0 +1,41 @@
+
+nvwang_huojiu.png
+size: 944,944
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvwang2
+  rotate: false
+  xy: 621, 171
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+nvwang3
+  rotate: false
+  xy: 621, 246
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+nvwang4
+  rotate: false
+  xy: 2, 2
+  size: 484, 940
+  orig: 484, 940
+  offset: 0, 0
+  index: -1
+nvwang5
+  rotate: true
+  xy: 488, 321
+  size: 621, 446
+  orig: 621, 446
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 488, 46
+  size: 131, 273
+  orig: 131, 273
+  offset: 0, 0
+  index: -1

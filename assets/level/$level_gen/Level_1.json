@@ -1,0 +1,42 @@
+{
+  "XSize": 3,
+  "YSize": 3,
+  "Arrows": [
+    {
+      "Dx": -1,
+      "Dy": 0,
+      "X": 0,
+      "Y": 2,
+      "ColorType": 3,
+      "Indices": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "Dx": 1,
+      "Dy": 0,
+      "X": 2,
+      "Y": 1,
+      "ColorType": 3,
+      "Indices": [
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "Dx": -1,
+      "Dy": 0,
+      "X": 0,
+      "Y": 0,
+      "ColorType": 3,
+      "Indices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+
+huangdi_huojiu.png
+size: 897,897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangdi0
+  rotate: false
+  xy: 788, 314
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+huangdi1
+  rotate: false
+  xy: 788, 238
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+huangdi2
+  rotate: true
+  xy: 437, 216
+  size: 172, 349
+  orig: 172, 349
+  offset: 0, 0
+  index: -1
+huangdi3
+  rotate: false
+  xy: 2, 370
+  size: 433, 525
+  orig: 434, 525
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 437, 390
+  size: 458, 505
+  orig: 458, 505
+  offset: 0, 0
+  index: -1

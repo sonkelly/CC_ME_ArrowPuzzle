@@ -1,0 +1,76 @@
+
+jaintou.png
+size: 555,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou0
+  rotate: false
+  xy: 473, 296
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+jiantou1
+  rotate: false
+  xy: 473, 380
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+jiantou2
+  rotate: true
+  xy: 473, 199
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+jiantou3
+  rotate: true
+  xy: 473, 246
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+jiantou4
+  rotate: false
+  xy: 473, 72
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+jiantou5
+  rotate: false
+  xy: 473, 30
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+jiantou6
+  rotate: false
+  xy: 473, 114
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+jiantou7
+  rotate: false
+  xy: 473, 156
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+jiantou8
+  rotate: true
+  xy: 528, 149
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+jiantou9
+  rotate: true
+  xy: 2, 2
+  size: 461, 469
+  orig: 461, 469
+  offset: 0, 0
+  index: -1

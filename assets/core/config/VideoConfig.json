@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "Scene": "局内",
+    "Name": "复活",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 0,
+    "Param2": 0,
+    "Desc": "补满生命值继续游戏",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  },
+  {
+    "Id": 2,
+    "Scene": "局内",
+    "Name": "提示",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 0,
+    "Param2": 0,
+    "Desc": "提示",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  },
+  {
+    "Id": 3,
+    "Scene": "局外",
+    "Name": "补签每日挑战",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 0,
+    "Param2": 0,
+    "Desc": "补签每日挑战",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  },
+  {
+    "Id": 4,
+    "Scene": "局外",
+    "Name": "补满体力",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 0,
+    "Param2": 0,
+    "Desc": "补满体力",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  },
+  {
+    "Id": 5,
+    "Scene": "局外",
+    "Name": "免费金币",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 100,
+    "Param2": 0,
+    "Desc": "",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  },
+  {
+    "Id": 6,
+    "Scene": "局外",
+    "Name": "商城免费购买",
+    "WaitTime": 0,
+    "DailyNum": 9999,
+    "Param1": 0,
+    "Param2": 0,
+    "Desc": "",
+    "AwardIcon": "",
+    "AwardIconScale": 0,
+    "AwardDesc1": ""
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "BaseConfig",
+    "index": "ID"
+  },
+  {
+    "name": "AchievementConfig",
+    "index": "id"
+  },
+  {
+    "name": "TierConfig",
+    "index": "tier"
+  },
+  {
+    "name": "DifficultyProfile",
+    "index": "level"
+  },
+  {
+    "name": "TaskConfig",
+    "index": "id"
+  },
+  {
+    "name": "TaskDesConfig",
+    "index": "id"
+  },
+  {
+    "name": "ActivityConfig",
+    "index": "ID"
+  },
+  {
+    "name": "i18n",
+    "index": "PK"
+  },
+  {
+    "name": "DifficultyProfileChalleng",
+    "index": "level"
+  },
+  {
+    "name": "DailyRewards",
+    "index": "id"
+  },
+  {
+    "name": "DifficultyProfileTournament",
+    "index": "level"
+  },
+  {
+    "name": "PayConfigWx",
+    "index": "ID"
+  },
+  {
+    "name": "VideoConfig",
+    "index": "Id"
+  },
+  {
+    "name": "AvatarConfig",
+    "index": "ID"
+  },
+  {
+    "name": "ItemData",
+    "index": "ItemId"
+  },
+  {
+    "name": "PayConfig",
+    "index": "ID"
+  },
+  {
+    "name": "DifficultyProfileWx",
+    "index": "level"
+  },
+  {
+    "name": "RescueProfileFB",
+    "index": "level"
+  },
+  {
+    "name": "RescueProfile",
+    "index": "level"
+  }
+]

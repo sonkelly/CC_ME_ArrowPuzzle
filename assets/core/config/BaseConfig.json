@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "NormalHp": 3,
+    "HardHp": 4,
+    "SuperHardHp": 3,
+    "UnlockChalleng": 6,
+    "MaxHeart": 5,
+    "HeartRecoverInterval": 1800,
+    "FillHeartCost": 150,
+    "ReviveHp": 1,
+    "ReviveTime": 60,
+    "HardTimeRate": "120|1.0;200|1.0;9999|1.0",
+    "SuperHardTimeRate": "120|1.0;200|1.0;9999|1.0",
+    "TimeRate": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

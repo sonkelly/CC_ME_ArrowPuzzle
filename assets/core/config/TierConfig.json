@@ -1,0 +1,314 @@
+[
+  {
+    "tier": 1,
+    "name": "萌新初遇1",
+    "enName": "Novice1",
+    "need": 3,
+    "icon": "xzz1",
+    "bg": "1"
+  },
+  {
+    "tier": 2,
+    "name": "萌新初遇2",
+    "enName": "Novice2",
+    "need": 10,
+    "icon": "xzz1",
+    "bg": "1"
+  },
+  {
+    "tier": 3,
+    "name": "萌新初遇3",
+    "enName": "Novice3",
+    "need": 15,
+    "icon": "xzz1",
+    "bg": "1"
+  },
+  {
+    "tier": 4,
+    "name": "浅尝辄止1",
+    "enName": "Casual1",
+    "need": 20,
+    "icon": "xzz2",
+    "bg": "2"
+  },
+  {
+    "tier": 5,
+    "name": "浅尝辄止2",
+    "enName": "Casual2",
+    "need": 25,
+    "icon": "xzz2",
+    "bg": "2"
+  },
+  {
+    "tier": 6,
+    "name": "浅尝辄止3",
+    "enName": "Casual3",
+    "need": 32,
+    "icon": "xzz2",
+    "bg": "2"
+  },
+  {
+    "tier": 7,
+    "name": "闲趣玩家1",
+    "enName": "Amateur1",
+    "need": 40,
+    "icon": "xzz3",
+    "bg": "3"
+  },
+  {
+    "tier": 8,
+    "name": "闲趣玩家2",
+    "enName": "Amateur2",
+    "need": 45,
+    "icon": "xzz3",
+    "bg": "3"
+  },
+  {
+    "tier": 9,
+    "name": "闲趣玩家3",
+    "enName": "Amateur3",
+    "need": 50,
+    "icon": "xzz3",
+    "bg": "3"
+  },
+  {
+    "tier": 10,
+    "name": "稳步进阶1",
+    "enName": "Steady1",
+    "need": 60,
+    "icon": "xzz4",
+    "bg": "4"
+  },
+  {
+    "tier": 11,
+    "name": "稳步进阶2",
+    "enName": "Steady2",
+    "need": 70,
+    "icon": "xzz4",
+    "bg": "4"
+  },
+  {
+    "tier": 12,
+    "name": "稳步进阶3",
+    "enName": "Steady3",
+    "need": 80,
+    "icon": "xzz4",
+    "bg": "4"
+  },
+  {
+    "tier": 13,
+    "name": "娴熟达人1",
+    "enName": "Skilled1",
+    "need": 90,
+    "icon": "xzz5",
+    "bg": "5"
+  },
+  {
+    "tier": 14,
+    "name": "娴熟达人2",
+    "enName": "Skilled2",
+    "need": 100,
+    "icon": "xzz5",
+    "bg": "5"
+  },
+  {
+    "tier": 15,
+    "name": "娴熟达人3",
+    "enName": "Skilled3",
+    "need": 110,
+    "icon": "xzz5",
+    "bg": "5"
+  },
+  {
+    "tier": 16,
+    "name": "灵动好手1",
+    "enName": "Agile1",
+    "need": 120,
+    "icon": "xzz6",
+    "bg": "6"
+  },
+  {
+    "tier": 17,
+    "name": "灵动好手2",
+    "enName": "Agile2",
+    "need": 130,
+    "icon": "xzz6",
+    "bg": "6"
+  },
+  {
+    "tier": 18,
+    "name": "灵动好手3",
+    "enName": "Agile3",
+    "need": 140,
+    "icon": "xzz6",
+    "bg": "6"
+  },
+  {
+    "tier": 19,
+    "name": "精英闲者1",
+    "enName": "Elite1",
+    "need": 150,
+    "icon": "xzz7",
+    "bg": "7"
+  },
+  {
+    "tier": 20,
+    "name": "精英闲者2",
+    "enName": "Elite2",
+    "need": 160,
+    "icon": "xzz7",
+    "bg": "7"
+  },
+  {
+    "tier": 21,
+    "name": "精英闲者3",
+    "enName": "Elite3",
+    "need": 170,
+    "icon": "xzz7",
+    "bg": "7"
+  },
+  {
+    "tier": 22,
+    "name": "超凡闲趣1",
+    "enName": "Superior1",
+    "need": 180,
+    "icon": "xzz8",
+    "bg": "8"
+  },
+  {
+    "tier": 23,
+    "name": "超凡闲趣2",
+    "enName": "Superior2",
+    "need": 190,
+    "icon": "xzz8",
+    "bg": "8"
+  },
+  {
+    "tier": 24,
+    "name": "超凡闲趣3",
+    "enName": "Superior3",
+    "need": 200,
+    "icon": "xzz8",
+    "bg": "8"
+  },
+  {
+    "tier": 25,
+    "name": "巅峰闲圣1",
+    "enName": "Peak1",
+    "need": 210,
+    "icon": "xzz9",
+    "bg": "9"
+  },
+  {
+    "tier": 26,
+    "name": "巅峰闲圣2",
+    "enName": "Peak2",
+    "need": 220,
+    "icon": "xzz9",
+    "bg": "9"
+  },
+  {
+    "tier": 27,
+    "name": "巅峰闲圣3",
+    "enName": "Peak3",
+    "need": 230,
+    "icon": "xzz9",
+    "bg": "9"
+  },
+  {
+    "tier": 28,
+    "name": "无双闲尊1",
+    "enName": "Unique1",
+    "need": 250,
+    "icon": "xzz10",
+    "bg": "10"
+  },
+  {
+    "tier": 29,
+    "name": "无双闲尊2",
+    "enName": "Unique2",
+    "need": 280,
+    "icon": "xzz10",
+    "bg": "10"
+  },
+  {
+    "tier": 30,
+    "name": "无双闲尊3",
+    "enName": "Unique3",
+    "need": 300,
+    "icon": "xzz10",
+    "bg": "10"
+  },
+  {
+    "tier": 31,
+    "name": "神话闲主1",
+    "enName": "Mythic1",
+    "need": 330,
+    "icon": "xzz11",
+    "bg": "11"
+  },
+  {
+    "tier": 32,
+    "name": "神话闲主2",
+    "enName": "Mythic2",
+    "need": 360,
+    "icon": "xzz11",
+    "bg": "11"
+  },
+  {
+    "tier": 33,
+    "name": "神话闲主3",
+    "enName": "Mythic3",
+    "need": 380,
+    "icon": "xzz11",
+    "bg": "11"
+  },
+  {
+    "tier": 34,
+    "name": "天穹闲帝1",
+    "enName": "Celestial1",
+    "need": 400,
+    "icon": "xzz12",
+    "bg": "12"
+  },
+  {
+    "tier": 35,
+    "name": "天穹闲帝2",
+    "enName": "Celestial2",
+    "need": 450,
+    "icon": "xzz12",
+    "bg": "12"
+  },
+  {
+    "tier": 36,
+    "name": "天穹闲帝3",
+    "enName": "Celestial3",
+    "need": 500,
+    "icon": "xzz12",
+    "bg": "12"
+  },
+  {
+    "tier": 37,
+    "name": "至尊闲神1",
+    "enName": "Supreme1",
+    "need": 550,
+    "icon": "xzz13",
+    "bg": "13"
+  },
+  {
+    "tier": 38,
+    "name": "至尊闲神2",
+    "enName": "Supreme2",
+    "need": 650,
+    "icon": "xzz13",
+    "bg": "13"
+  },
+  {
+    "tier": 39,
+    "name": "至尊闲神3",
+    "enName": "Supreme3",
+    "need": 700,
+    "icon": "xzz13",
+    "bg": "13"
+  }
+]

@@ -1,0 +1,48 @@
+
+chaiquan.png
+size: 992,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou0
+  rotate: true
+  xy: 455, 110
+  size: 118, 122
+  orig: 118, 122
+  offset: 0, 0
+  index: -1
+gou1
+  rotate: true
+  xy: 524, 14
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+gou2
+  rotate: false
+  xy: 2, 2
+  size: 451, 226
+  orig: 451, 226
+  offset: 0, 0
+  index: -1
+gou3
+  rotate: true
+  xy: 455, 46
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+gou4
+  rotate: true
+  xy: 524, 47
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+gou5
+  rotate: false
+  xy: 2, 230
+  size: 565, 760
+  orig: 604, 804
+  offset: 0, 44
+  index: -1

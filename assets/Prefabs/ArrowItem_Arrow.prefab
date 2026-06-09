@@ -1,0 +1,104 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "ArrowItem_Arrow",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "persistent": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ArrowItem_Arrow",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_mobility": 0,
+    "_layer": 1,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "49e9e+xlPNCkYFb7ANjJ+D1",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 3
+    },
+    "bodyPrefab": {
+      "__uuid__": "7b1abf2f-e4b6-4ff5-9a7d-412a1ef36b24",
+      "__expectedType__": "cc.Prefab"
+    },
+    "headPrefab": {
+      "__uuid__": "2c2bd045-79cc-4107-8da8-b76d19c06067",
+      "__expectedType__": "cc.Prefab"
+    },
+    "tailPrefab": {
+      "__uuid__": "7b1abf2f-e4b6-4ff5-9a7d-412a1ef36b24",
+      "__expectedType__": "cc.Prefab"
+    },
+    "tailEndPrefab": {
+      "__uuid__": "ace5cc55-a90f-4de5-a62a-78a2d34df172",
+      "__expectedType__": "cc.Prefab"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "5bHnmscalC7q3Zfq72SA2S"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "46U+45+cpGe7v6UsFsqE0G",
+    "targetOverrides": null
+  }
+]

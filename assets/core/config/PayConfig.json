@@ -1,0 +1,117 @@
+[
+  {
+    "ID": 10001,
+    "Name": "Gold",
+    "Type": 1,
+    "Desc": "Buy Gold",
+    "Icon": "tongy_16",
+    "PriceType": 1,
+    "Price": 1,
+    "DropIds": [
+      10001
+    ],
+    "DropNums": [
+      100
+    ]
+  },
+  {
+    "ID": 10002,
+    "Name": "Gold",
+    "Type": 1,
+    "Desc": "Buy Gold",
+    "Icon": "tongy_16",
+    "PriceType": 3,
+    "Price": 0.99,
+    "DropIds": [
+      10001
+    ],
+    "DropNums": [
+      500
+    ]
+  },
+  {
+    "ID": 10003,
+    "Name": "InfiniteHeart",
+    "Type": 1,
+    "Desc": "InfiniteHeart",
+    "Icon": "tongy_17",
+    "PriceType": 3,
+    "Price": 1.99,
+    "DropIds": [
+      10003
+    ],
+    "DropNums": [
+      1
+    ]
+  },
+  {
+    "ID": 10004,
+    "Name": "Remove Ads",
+    "Type": 2,
+    "Desc": " Ads Gift Pack",
+    "Icon": "noads",
+    "PriceType": 3,
+    "Price": 9.99,
+    "DropIds": [
+      30001
+    ],
+    "DropNums": [
+      1
+    ]
+  },
+  {
+    "ID": 10005,
+    "Name": "Play Gift Pack",
+    "Type": 3,
+    "Desc": "Play Gift Pack",
+    "Icon": "",
+    "PriceType": 3,
+    "Price": 2.99,
+    "DropIds": [
+      10001,
+      20001,
+      10003
+    ],
+    "DropNums": [
+      500,
+      5,
+      1
+    ]
+  },
+  {
+    "ID": 10006,
+    "Name": "Play Gift Pack",
+    "Type": 3,
+    "Desc": "Play Gift Pack",
+    "Icon": "",
+    "PriceType": 3,
+    "Price": 7.99,
+    "DropIds": [
+      10001,
+      20001
+    ],
+    "DropNums": [
+      3000,
+      12
+    ]
+  },
+  {
+    "ID": 10007,
+    "Name": "Play Gift Pack",
+    "Type": 3,
+    "Desc": "Play Gift Pack",
+    "Icon": "",
+    "PriceType": 3,
+    "Price": 12.99,
+    "DropIds": [
+      10001,
+      20001,
+      10003
+    ],
+    "DropNums": [
+      4500,
+      12,
+      3
+    ]
+  }
+]
